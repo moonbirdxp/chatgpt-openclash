@@ -30,3 +30,6 @@ DOMAIN-SUFFIX,generativelanguage.googleapis.com
 # claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+
+#wifi phone call
+DOMAIN-SUFFIX,3gppnetwork.org
