@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
 # gemini
-DOMAIN,homeplatformmesh-pa.googleapis.com:443
+DOMAIN-SUFFIX,homeplatformmesh-pa.googleapis.com:443
 
 #add poe.com
 DOMAIN-SUFFIX,poe.com
